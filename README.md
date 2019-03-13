@@ -26,3 +26,4 @@ Things you may want to cover:
 # my_fisrt-rails_app
 # my_first_rails_app
 # Rails_app
+# Rails_app
